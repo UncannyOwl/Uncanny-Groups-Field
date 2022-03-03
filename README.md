@@ -4,6 +4,8 @@ Uncanny Groups - "Group Name" field for custom check out
 
 ## MINIMUM REQUIREMENTS
 - [Uncanny LearnDash Groups](https://www.uncannyowl.com/downloads/uncanny-learndash-groups/) - latest
+- WooCommerce
+- LearnDash
 
 ## INSTALLATION
 - Download latest "uncanny-groups-field-x.x.zip" package.
